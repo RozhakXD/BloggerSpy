@@ -26,10 +26,11 @@ $ python Run.py
 ## 📂 Output Data
 
 Hasil scraping akan tersimpan dalam file **Temporary/Results.txt** dalam format berikut:
-| Nama Lengkap   | Profil Blogger                               | Tanggal Bergabung | Tampilan Profil | Email                  |
-|---------------|--------------------------------------------|------------------|----------------|------------------------|
-| John Doe      | [Profile](https://www.blogger.com/profile/123456) | Januari 2020     | 500            | johndoe@gmail.com      |
-| Jane Smith    | [Profile](https://www.blogger.com/profile/789012) | Maret 2018       | 1200           | Tidak ditemukan        |
+```
+Nama Lengkap | Profil Blogger | Tanggal Bergabung | Tampilan Profil | Email
+John Doe | https://www.blogger.com/profile/123456 | Januari 2020 | 500 | johndoe@gmail.com
+Jane Smith | https://www.blogger.com/profile/789012 | Maret 2018 | 1200 | Tidak ditemukan
+```
 
 ## 🖼️ Tangkapan Layar
 ![FunPic_20250222](https://github.com/user-attachments/assets/d81d121f-9db2-4092-a23f-d6d5e36ec644)
